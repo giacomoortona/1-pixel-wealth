@@ -306,9 +306,14 @@ h1 {
   height: 500px;
   background-color: orange;
 }
+.ferrero .wealth {
+  width: 26500px;
+  height: 500px;
+  background-color: orange;
+}
 .four-hundred .wealth {
   margin-left: 100px;
-  width: 7000000px;
+  width: 173400px;
   height: 500px;
   background-color: #03A9F4;
 }
@@ -333,6 +338,10 @@ h1 {
 .bezos .key > span {
   background-color: orange;
 }
+.ferrero .key > span {
+  background-color: orange;
+}
+
 .four-hundred .key > span {
   background-color: #03A9F4;
 }
