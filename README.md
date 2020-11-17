@@ -1,6 +1,6 @@
 # About
 
-Source code for https://mkorostoff.github.io/1-pixel-wealth/
+Source code from https://mkorostoff.github.io/1-pixel-wealth/ adapted to the italian case.
 
 # Translations
 
@@ -38,7 +38,7 @@ _[A note on the role of citations in this project](https://github.com/MKorostoff
 - [Efficacy of cash transfers](https://www.givedirectly.org/research-on-cash-transfers/)
 
 # About the Author
-One pixel wealth was created by [Matt Korostoff](https://mkorostoff.github.io/)
+One pixel wealth was created by [Matt Korostoff](https://mkorostoff.github.io/) and adapted by G. Ortona with italian data
 
 # Against Malaria
 
