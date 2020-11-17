@@ -1,6 +1,6 @@
-var bezos = document.getElementById('bezos');
-var bezos_counter = document.getElementById('bezos-counter');
-var bezosCounterStart = document.getElementById('bezos-counter-start');
+var ferrero = document.getElementById('ferrero');
+var ferrero_counter = document.getElementById('ferrero-counter');
+var ferreroCounterStart = document.getElementById('ferrero-counter-start');
 
 var four_hundred = document.getElementById('four-hundred');
 var four_hundred_counter = document.getElementById('four-hundred-counter');
@@ -15,7 +15,7 @@ var baby_counter = document.getElementById('baby-counter');
 var thousand = new Intl.NumberFormat('en-US')
 var money = new Intl.NumberFormat('en-US', {
   style: 'currency',
-  currency: 'USD',
+  currency: 'EUR',
   minimumFractionDigits: 0,
   maximumFractionDigits: 0,
 });
