@@ -406,17 +406,17 @@ h1 {
   width: auto;
 }
 .beyonce .square {
-  height: 350px;
-  width: 1142px;
+  height: 350px; /*350px;*/
+  width: 9700px;/*1142px;*/
   background-color: #406994;
 }
 .goldman .square {
-  width: 223px;
-  height: 223px;
+  width: 1200px; /*fixed 223px;*/
+  height: 350px; /*fixed 223px;*/
   background-color: #64A8F0;
 }
 .tim-cook .square {
-  width: 1785px;
+  width: 15000pxl/*1785px;*/
   height: 350px;
   background-color: #71889e;
 }
@@ -431,8 +431,8 @@ h1 {
   background-color: #00478a;
 }
 .hedgefund .square {
-  width: 289.8px;
-  height: 289.8px;
+  width: 2028px;/*fixed 289.8px;*/
+  height: 350px;/*fixed 289.8px;*/
   background-color: #9daebf;
 }
 .line-chart .chart-outer {
