@@ -285,8 +285,8 @@ h1 {
   width: 480px;
 }
 .median .wealth{
-  width: 7.94px;
-  height: 7.94px;
+  width: 5.6px; /*fixed 7.94*/
+  height: 5.6px;/*fixed 7.94*/
 }
 .million {
   width: 200px;
