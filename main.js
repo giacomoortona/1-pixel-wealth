@@ -78,8 +78,8 @@ babies.addEventListener('scroll', function(){
 function update_wealth_counter() {
   if (ferrero_viewable()) {
     if (ferrero_counter_viewable()) {
-      let wealth = (window.scrollX - ferrero.offsetLeft + 175) * 500000;
-      ferrero_counter.innerHTML = (wealth < 26500000000) ? money.format(wealth) : "€26,500,000,000";
+      let wealth = (window.scrollX - ferrero.offsetLeft + 175) * 500000; //87.500.000
+      ferrero_counter.innerHTML = (wealth < 26500000000) ? money.format(wealth) : "€26,500,000,000P";
     }
     else {
       ferrero_counter.innerHTML = '';
