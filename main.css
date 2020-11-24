@@ -301,11 +301,6 @@ h1 {
   height: 500px;
   background-color: #03A9F4;
 }
-.bezos .wealth {
-  width: 400000px;
-  height: 500px;
-  background-color: orange;
-}
 .ferrero .wealth {
   width: 53000px;
   height: 500px;
@@ -334,9 +329,6 @@ h1 {
 }
 .key > span {
   display: inline-block;
-}
-.bezos .key > span {
-  background-color: orange;
 }
 .ferrero .key > span {
   background-color: orange;
