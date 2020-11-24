@@ -277,8 +277,8 @@ h1 {
   margin-bottom: 20px;
 }
 .one-thousand {
-  width: 1px;
-  height: 1px;
+  width: 3.16px; /*fixed 1*/
+  height: 3.16px; /*fixed 1*/
   margin-top: 5px;
 }
 .median {
@@ -292,23 +292,23 @@ h1 {
   width: 200px;
 }
 .million .wealth {
-  width: 31.62px;
-  height: 31.62px;
+  width: 100px; /*fixed 31.62*/
+  height: 100px; /*fixed 31.62*/
   background-color: #4CAF50;
 }
 .billion .wealth {
-  width: 2000px;
+  width: 20000px; /*fixed*/
   height: 500px;
   background-color: #03A9F4;
 }
 .ferrero .wealth {
-  width: 53000px;
+  width: 530000px; /*fixed*/
   height: 500px;
   background-color: orange;
 }
 .four-hundred .wealth {
   margin-left: 100px;
-  width: 346800px;
+  width: 3468000px; /*fixed*/
   height: 500px;
   background-color: #03A9F4;
 }
