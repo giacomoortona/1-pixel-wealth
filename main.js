@@ -79,7 +79,7 @@ function update_wealth_counter() {
   if (ferrero_viewable()) {
     if (ferrero_counter_viewable()) {
       let wealth = (window.scrollX - ferrero.offsetLeft + 175) * 500000;
-      ferrero_counter.innerHTML = (wealth < 26500000000/3.0) ? money.format(wealth) : "€26,500,000,000";
+      ferrero_counter.innerHTML = (wealth < 26500000000) ? money.format(wealth) : "€26,500,000,000";
     }
     else {
       ferrero_counter.innerHTML = '';
@@ -88,7 +88,7 @@ function update_wealth_counter() {
   else if (four_hundred_viewable()) {
     if (four_hundred_counter_viewable()) {
       let wealth = (window.scrollX - four_hundred.offsetLeft + 175) * 500000;
-      four_hundred_counter.innerHTML = (wealth < 173400000000/3.0) ? money.format(wealth) : "€173,400,000,000";
+      four_hundred_counter.innerHTML = (wealth < 173400000000) ? money.format(wealth) : "€173,400,000,000";
     }
     else {
       four_hundred_counter.innerHTML = '';
