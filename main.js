@@ -79,7 +79,7 @@ function update_wealth_counter() {
   if (ferrero_viewable()) {
     if (ferrero_counter_viewable()) {
       let wealth = (window.scrollX - ferrero.offsetLeft + 175) * 50000; //87.500.000
-      ferrero_counter.innerHTML = (wealth < 26500000000) ? money.format(wealth) : "€26,500,000,000P";
+      ferrero_counter.innerHTML = (wealth < 26500000000) ? money.format(wealth) : "€26,500,000,000A";
     }
     else {
       ferrero_counter.innerHTML = '';
