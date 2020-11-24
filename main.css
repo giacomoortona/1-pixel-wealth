@@ -350,8 +350,8 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 41.23px;
-  height: 41.23px;
+  width: 160px; /* fixed*41.23px;*/
+  height: 160px; /* fixed*41.23px;*/
   background-color: blue;
 }
 .healthcare .square {
@@ -360,8 +360,8 @@ h1 {
   background-color: blue;
 }
 .amazon-year .square {
-  width: 5.4px;
-  height: 5.4px;
+  width: 17px; /*fixed 5.4*/
+  height: 17px; /*fixed 5.4*/
   background-color: blue;
 }
 .year-veteran .square {
