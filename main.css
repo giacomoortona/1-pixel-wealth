@@ -509,8 +509,8 @@ h1 {
   margin: 5px;
 }
 .people-wrapper {
-  width: 800px;
-  height: 400px;
+  width: 400px; /*800px;*/
+  height: 20px;/*400px;*/
   overflow-y: auto;
   overflow-x: hidden;
 }
