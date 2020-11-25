@@ -546,6 +546,11 @@ h1 {
   text-align: center;
   padding: 10px;
 }
+.people-label-small {
+  position: absolute;
+  top: 40%;
+  left: 5%;/*39%;*/
+}
 .people-label {
   position: absolute;
   top: 40%;
@@ -640,6 +645,9 @@ h1 {
 }
 .two-point-seven-percent .piechart-inner {
   stroke-dasharray: 2.7 100;
+}
+.forty-seven-percent .piechart-inner {
+  stroke-dasharray: 47 100;
 }
 .six-percent .piechart-inner {
   stroke-dasharray: 6 100;
