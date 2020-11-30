@@ -177,7 +177,7 @@ h1 {
 }
 .text-infobox .title,
 .infobox .chart {
-  max-width: 400px;
+  max-width: 450px;
 }
 .infobox .chart img {
   max-width: 70%;
@@ -421,13 +421,13 @@ h1 {
   background-color: #71889e;
 }
 .doctor .square {
-  width: 81.8px;
-  height: 81.8px;
+  width:  223px/*81.8px*/;
+  height: 223px/*81.8px*/;
   background-color: #0661b9;
 }
 .lawyer .square {
-  width: 63.2px;
-  height: 63.2px;
+  width:  158px;/*63.2px*/;
+  height: 158px;/*63.2px*/;
   background-color: #00478a;
 }
 .hedgefund .square {
@@ -813,7 +813,7 @@ h1 {
 }
 .malaria-bar .square {
   height: 400px;
-  width: 337px;
+  width: 925px;
   background-color: #66c35a;
   display: flex;
   box-sizing: border-box;
@@ -821,7 +821,7 @@ h1 {
 }
 .corona-bar .square {
   height: 400px;
-  width: 925px;
+  width: 337px;
   background-color: green;
   display: flex;
   box-sizing: border-box;
