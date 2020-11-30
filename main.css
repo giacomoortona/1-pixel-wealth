@@ -151,7 +151,7 @@ h1 {
   position: static;
 }
 .four-hundred .wealth > .wealth-title {
-  flex-basis: 420px;
+  flex-basis: 500px; /*420*/
 }
 .four-hundred .intro {
   margin-left: 0;
@@ -821,7 +821,7 @@ h1 {
 }
 .corona-bar .square {
   height: 400px;
-  width: 500px;
+  width: 925px;
   background-color: green;
   display: flex;
   box-sizing: border-box;
