@@ -177,7 +177,7 @@ h1 {
 }
 .text-infobox .title,
 .infobox .chart {
-  max-width: 450px;
+  max-width: 400px;
 }
 .infobox .chart img {
   max-width: 100%;
@@ -609,7 +609,7 @@ h1 {
 }
 .ninety-wrapper,
 .plane-wrapper {
-  width: 480px;
+  width: 200px;
   max-width: 96vw;
 }
 .ninety-wrapper img,
