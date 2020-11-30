@@ -350,13 +350,13 @@ h1 {
   min-width: 140px;
 }
 .lifetime .square {
-  width: 160px; /* fixed*41.23px;*/
-  height: 160px; /* fixed*41.23px;*/
+  width:  122px;/*160px;*/ /* fixed*41.23px;*/
+  height: 122px;/*160px;*/ /* fixed*41.23px;*/
   background-color: blue;
 }
 .healthcare .square {
-  width: 4.96px;
-  height: 4.96px;
+  width: 10px; 
+  height: 10px;
   background-color: blue;
 }
 .amazon-year .square {
@@ -364,9 +364,9 @@ h1 {
   height: 17px; /*fixed 5.4*/
   background-color: blue;
 }
-.year-veteran .square {
+.year-veteran .square { /*1630000 studenti *40 euro a tablet = 65 200 000*/
   height: 400px;
-  width: 1186px;
+  width:  1630px;/*1186px;*/
   margin-top: 5px;
   background-color: #8BC34A;
 }
