@@ -364,9 +364,9 @@ h1 {
   height: 17px; /*fixed 5.4*/
   background-color: blue;
 }
-.year-veteran .square { /*1630000 studenti *40 euro a tablet = 65 200 000*/
+.year-veteran .square { /*1630000 studenti *35 euro a tablet = 65 200 000 https://www.eprice.it/pr/tablet?sort=price_asc https://www.miur.gov.it/documents/20182/0/Principali+dati+della+scuola+-+avvio+anno+scolastico+2018-2019.pdf/fb3e7b10-e2bc-49aa-a114-c41ef53cacf9?version=1.0 tabella 5*/
   height: 400px;
-  width:  1630px;/*1186px;*/
+  width:  1430px;/*1186px;*/
   margin-top: 5px;
   background-color: #8BC34A;
 }
