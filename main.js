@@ -62,7 +62,7 @@ function generate_sixty_percent() {
 generate_sixty_percent();
 
 sixtyPercent.addEventListener('scroll', function(){
-  let newScroll = ((sixtyPercent.scrollTop / sixtyPercent.scrollHeight) * 60).toFixed(1);
+  let newScroll = ((sixtyPercent.scrollTop / sixtyPercent.scrollHeight) * 25).toFixed(1);
   if (sixtyPercentScrollPercentage !== newScroll) {
     sixtyPercentScrollPercentage = newScroll;
     sixtyPercentIndicator.innerHTML = newScroll + '%';
