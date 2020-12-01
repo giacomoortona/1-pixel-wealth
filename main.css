@@ -543,7 +543,7 @@ h1 {
 .sixty-percent-people .people {
   width: 800px;
 /*height: 1974000px;*/
-  height: 187500px;
+  height: 150000px;
 }
 .sixty-percent-people .people-wrapper {
   box-shadow: inset 0 0 10px #000000;
@@ -612,7 +612,7 @@ h1 {
   }
   .sixty-percent-people .people {
     width: 200px;
-    height: 187500px;
+    height: 150000px; /*perche non 15.000.000??*/
   }
   .people-label {
     left: 35px;
