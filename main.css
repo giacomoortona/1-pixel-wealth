@@ -618,9 +618,12 @@ h1 {
     margin-left: 66px;
   }
 }
-.ninety-wrapper,
-.plane-wrapper {
+.ninety-wrapper {
   width: 600px;
+  max-width: 96vw;
+}
+.plane-wrapper {
+  width: 480px;
   max-width: 96vw;
 }
 .ninety-wrapper img,
@@ -660,6 +663,9 @@ h1 {
 
 .two-point-seven-percent .piechart-inner {
   stroke-dasharray: 2.7 100;
+}
+.two-point-three-percent .piechart-inner {
+  stroke-dasharray: 2.3 100;
 }
 .forty-seven-percent .piechart-inner {
   stroke-dasharray: 47 100;
@@ -719,6 +725,7 @@ h1 {
 }
 .two-point-zero-percent .piechart-outer,
 .two-point-one-percent .piechart-outer,
+.two-point-three-percent .piechart-outer,
 .two-point-seven-percent .piechart-outer,
 .two-point-eight-percent .piechart-outer {
   transform: rotate(-38deg);
