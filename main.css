@@ -677,6 +677,9 @@ h1 {
 .four-point-eight-percent .piechart-inner {
   stroke-dasharray: 4.8 100;
 }
+.five-point-zero-percent .piechart-inner {
+  stroke-dasharray: 5.0 100;
+}
 .two-point-one-percent .piechart-inner {
   stroke-dasharray: 2.1 100;
 }
