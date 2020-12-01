@@ -428,13 +428,13 @@ h1 {
   background-color: #71889e;
 }
 .doctor .square {
-  width:  223px/*81.8px*/;
-  height: 223px/*81.8px*/;
+  width:  274px/*81.8px*/;
+  height: 182px/*81.8px*/;
   background-color: #0661b9;
 }
 .lawyer .square {
-  width:  158px;/*63.2px*/;
-  height: 158px;/*63.2px*/;
+  width:  194px;/*63.2px*/;
+  height: 129px;/*63.2px*/;
   background-color: #00478a;
 }
 .hedgefund .square {
