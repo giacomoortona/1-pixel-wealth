@@ -673,6 +673,9 @@ h1 {
 .six-point-eight-percent .piechart-inner {
   stroke-dasharray: 6.8 100;
 }
+.eight-point-zero-percent .piechart-inner {
+  stroke-dasharray: 8.0 100;
+}
 .four-percent .piechart-outer {
   transform: rotate(-43deg);
 }
