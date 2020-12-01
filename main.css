@@ -607,8 +607,8 @@ h1 {
     height: 160px;
   }
   .four-hundred-people .people {
-      width: 200px;
-      height: 400px;
+      width: 400px;
+      height: 200px;
   }
   .sixty-percent-people .people {
     width: 200px;
@@ -619,8 +619,13 @@ h1 {
     font-size: 20px;
   }
   .people-label-small {
+      position: absolute;
+  top: 100%;
+  left: 5%;/*39%;*/
+
     left: 35px;
     font-size: 20px;
+
   }
   .people-wrapper .percent {
     margin-left: 66px;
