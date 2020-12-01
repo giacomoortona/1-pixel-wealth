@@ -312,13 +312,13 @@ h1 {
   background-color: #03A9F4;
 }
 .ferrero .wealth {
-  width: 530000px; /*fixed*/
+  width: 500000px; /*fixed*/
   height: 500px;
   background-color: orange;
 }
 .four-hundred .wealth {
   margin-left: 100px;
-  width: 3468000px; /*fixed*/
+  width: 3000000px; /*fixed*/
   height: 500px;
   background-color: #03A9F4;
 }
@@ -654,6 +654,10 @@ h1 {
     font-size: 17px;
   }
 }
+.one-point-three-percent .piechart-inner {
+  stroke-dasharray: 1.3 100;
+}
+
 .two-point-seven-percent .piechart-inner {
   stroke-dasharray: 2.7 100;
 }
@@ -672,6 +676,7 @@ h1 {
 .four-percent .piechart-outer {
   transform: rotate(-43deg);
 }
+.one-point-three-percent .piechart-outer,
 .four-tenths-percent .piechart-outer {
   transform: rotate(-34deg);
 }
@@ -687,6 +692,9 @@ h1 {
 .four-point-eight-percent .piechart-inner {
   stroke-dasharray: 4.8 100;
 }
+.five-point-nine-percent .piechart-inner {
+  stroke-dasharray: 5.9 100;
+}
 .five-point-zero-percent .piechart-inner {
   stroke-dasharray: 5.0 100;
 }
@@ -698,6 +706,9 @@ h1 {
 }
 .ten-point-zero-percent .piechart-inner {
   stroke-dasharray: 10.0 100;
+}
+.twelve-point-zero-percent .piechart-inner {
+  stroke-dasharray: 12.0 100;
 }
 
 .thirty-six-percent .piechart-inner {
