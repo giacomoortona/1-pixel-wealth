@@ -48,6 +48,13 @@ h1 {
   font-size: 12px;
   width: 100%;
 }
+.paperoniale {
+  position: absolute;
+  bottom: 70px;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+}
 .about-this {
   position: absolute;
   color: #00000050;
