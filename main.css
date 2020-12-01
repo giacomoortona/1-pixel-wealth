@@ -615,6 +615,10 @@ h1 {
     height: 150000px; /*perche non 15.000.000??*/
   }
   .people-label {
+    left: 25px;
+    font-size: 20px;
+  }
+  .people-label-small {
     left: 35px;
     font-size: 20px;
   }
