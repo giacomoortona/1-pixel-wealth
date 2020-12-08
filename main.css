@@ -295,8 +295,8 @@ h1 {
   width: 480px;
 }
 .median .wealth{
-  width: 5.6px; /*fixed 7.94*/
-  height: 5.6px;/*fixed 7.94*/
+  width: 17.7px; /*fixed 7.94*/
+  height: 17.7px;/*fixed 7.94*/
 }
 .million {
   width: 200px;
@@ -374,6 +374,12 @@ h1 {
   height: 17px; /*fixed 5.4*/
   background-color: blue;
 }
+.capital-medio .square {
+  width: 35.5px; /*fixed 5.4*/
+  height: 35.5px; /*fixed 5.4*/
+  background-color: blue;
+}
+
 .year-veteran .square { /*1630000 studenti *32 euro a tablet = 65 200 000 https://www.eprice.it/pr/tablet?sort=price_asc https://www.miur.gov.it/documents/20182/0/Principali+dati+della+scuola+-+avvio+anno+scolastico+2018-2019.pdf/fb3e7b10-e2bc-49aa-a114-c41ef53cacf9?version=1.0 tabella 5*/
   height: 400px;
   width:  1300px;/*1186px;*/
